@@ -1,6 +1,5 @@
 ##
 ## <p align="center"><a href="https://connorsc.com" target="_blank">connorsc</a></p>
-[![MCVoting](https://mcvoting.com/api/badge?style=default&size=large)](https://mcvoting.com)
 ## <p align="center"><img src="https://discord.c99.nl/widget/theme-4/431511164124659742.png" alt="Discord"/></p>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=connorsc1&theme=dark&hide_border=true&include_all_commits=true&count_private=true"/>
