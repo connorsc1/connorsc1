@@ -1,6 +1,6 @@
-### hey, i'm connor
+### Connor
 
-frontend dev. building [mcvoting.com](https://mcvoting.com/connor)
+frontend dev. building [mcvoting.com](https://mcvoting.com)
 
 ---
 
