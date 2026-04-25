@@ -2,7 +2,7 @@
 
 ### connor
 
-frontend dev. building [mcvoting.com](https://mcvoting.com/connor)
+frontend dev. building [mcvoting.com](https://mcvoting.com)
 
 ---
 
